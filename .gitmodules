@@ -1,3 +1,6 @@
 [submodule "ros-python-starter"]
 	path = ros-python-starter
 	url = git@github.com:madan96/ros-python-starter.git
+[submodule "kortex_hardware"]
+	path = kortex_hardware
+	url = git@github.com:empriselab/kortex_hardware.git
