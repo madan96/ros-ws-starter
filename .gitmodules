@@ -1,6 +1,3 @@
 [submodule "ros-python-starter"]
 	path = ros-python-starter
 	url = git@github.com:madan96/ros-python-starter.git
-[submodule "ros-ws-starter"]
-	path = ros-ws-starter
-	url = git@github.com:madan96/ros-ws-starter.git
